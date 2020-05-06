@@ -1,7 +1,8 @@
-# Express Starter Project
+# Message-board api 
 
-This project includes the packages and babel setup for an express server, and is just meant to make things a little simpler to get up and running with.
+This project is made from a mock api and is build in espress with MongoDB and mongoose.
+
 
 ## Getting started
 
-Install dependencies with `npm install`, then start the server by running `npm run dev`
+Install dependencies with `npm install` and `npm mongoose`, then start the server by running `npm run dev`
